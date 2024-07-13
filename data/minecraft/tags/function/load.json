@@ -1,6 +1,6 @@
 {
     "values":[
-        "mypack:core/load"
+        "change_color:core/load"
     ],
     "replace":false
 }

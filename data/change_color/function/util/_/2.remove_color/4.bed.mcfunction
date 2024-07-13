@@ -1,0 +1,18 @@
+# remove color beds
+
+$fill $(from) $(to) white_bed[facing=north,occupied=false,part=foot] replace #minecraft:beds[facing=north,occupied=false,part=foot]
+$fill $(from) $(to) white_bed[facing=north,occupied=false,part=head] replace #minecraft:beds[facing=north,occupied=false,part=head]
+$fill $(from) $(to) white_bed[facing=north,occupied=true,part=foot] replace #minecraft:beds[facing=north,occupied=true,part=foot]
+$fill $(from) $(to) white_bed[facing=north,occupied=true,part=head] replace #minecraft:beds[facing=north,occupied=true,part=head]
+$fill $(from) $(to) white_bed[facing=south,occupied=false,part=foot] replace #minecraft:beds[facing=south,occupied=false,part=foot]
+$fill $(from) $(to) white_bed[facing=south,occupied=false,part=head] replace #minecraft:beds[facing=south,occupied=false,part=head]
+$fill $(from) $(to) white_bed[facing=south,occupied=true,part=foot] replace #minecraft:beds[facing=south,occupied=true,part=foot]
+$fill $(from) $(to) white_bed[facing=south,occupied=true,part=head] replace #minecraft:beds[facing=south,occupied=true,part=head]
+$fill $(from) $(to) white_bed[facing=west,occupied=false,part=foot] replace #minecraft:beds[facing=west,occupied=false,part=foot]
+$fill $(from) $(to) white_bed[facing=west,occupied=false,part=head] replace #minecraft:beds[facing=west,occupied=false,part=head]
+$fill $(from) $(to) white_bed[facing=west,occupied=true,part=foot] replace #minecraft:beds[facing=west,occupied=true,part=foot]
+$fill $(from) $(to) white_bed[facing=west,occupied=true,part=head] replace #minecraft:beds[facing=west,occupied=true,part=head]
+$fill $(from) $(to) white_bed[facing=east,occupied=false,part=foot] replace #minecraft:beds[facing=east,occupied=false,part=foot]
+$fill $(from) $(to) white_bed[facing=east,occupied=false,part=head] replace #minecraft:beds[facing=east,occupied=false,part=head]
+$fill $(from) $(to) white_bed[facing=east,occupied=true,part=foot] replace #minecraft:beds[facing=east,occupied=true,part=foot]
+$fill $(from) $(to) white_bed[facing=east,occupied=true,part=head] replace #minecraft:beds[facing=east,occupied=true,part=head]

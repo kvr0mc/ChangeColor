@@ -1,0 +1,16 @@
+{
+    "values": [
+        "#minecraft:wool",
+        "#minecraft:wool_carpets",
+        "#minecraft:concrete_powder",
+        "#minecraft:beds",
+        "#minecraft:banners",
+        "#change_color:concrete",
+        "#change_color:colored_terracotta",
+        "#change_color:glazed_terracotta",
+        "#change_color:stained_glass",
+        "#change_color:stained_glass_pane",
+        "#change_color:colored_shulker_box",        
+        "#change_color:colored_candles"   
+    ]
+}

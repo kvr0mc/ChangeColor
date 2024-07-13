@@ -1,0 +1,18 @@
+# change color candle
+
+$fill $(from) $(to) $(color)_candle[candles=1,lit=false,waterlogged=false] replace #minecraft:candles[candles=1,lit=false,waterlogged=false]
+$fill $(from) $(to) $(color)_candle[candles=1,lit=false,waterlogged=true] replace #minecraft:candles[candles=1,lit=false,waterlogged=true]
+$fill $(from) $(to) $(color)_candle[candles=1,lit=true,waterlogged=false] replace #minecraft:candles[candles=1,lit=true,waterlogged=false]
+$fill $(from) $(to) $(color)_candle[candles=1,lit=true,waterlogged=true] replace #minecraft:candles[candles=1,lit=true,waterlogged=true]
+$fill $(from) $(to) $(color)_candle[candles=2,lit=false,waterlogged=false] replace #minecraft:candles[candles=2,lit=false,waterlogged=false]
+$fill $(from) $(to) $(color)_candle[candles=2,lit=false,waterlogged=true] replace #minecraft:candles[candles=2,lit=false,waterlogged=true]
+$fill $(from) $(to) $(color)_candle[candles=2,lit=true,waterlogged=false] replace #minecraft:candles[candles=2,lit=true,waterlogged=false]
+$fill $(from) $(to) $(color)_candle[candles=2,lit=true,waterlogged=true] replace #minecraft:candles[candles=2,lit=true,waterlogged=true]
+$fill $(from) $(to) $(color)_candle[candles=3,lit=false,waterlogged=false] replace #minecraft:candles[candles=3,lit=false,waterlogged=false]
+$fill $(from) $(to) $(color)_candle[candles=3,lit=false,waterlogged=true] replace #minecraft:candles[candles=3,lit=false,waterlogged=true]
+$fill $(from) $(to) $(color)_candle[candles=3,lit=true,waterlogged=false] replace #minecraft:candles[candles=3,lit=true,waterlogged=false]
+$fill $(from) $(to) $(color)_candle[candles=3,lit=true,waterlogged=true] replace #minecraft:candles[candles=3,lit=true,waterlogged=true]
+$fill $(from) $(to) $(color)_candle[candles=4,lit=false,waterlogged=false] replace #minecraft:candles[candles=4,lit=false,waterlogged=false]
+$fill $(from) $(to) $(color)_candle[candles=4,lit=false,waterlogged=true] replace #minecraft:candles[candles=4,lit=false,waterlogged=true]
+$fill $(from) $(to) $(color)_candle[candles=4,lit=true,waterlogged=false] replace #minecraft:candles[candles=4,lit=true,waterlogged=false]
+$fill $(from) $(to) $(color)_candle[candles=4,lit=true,waterlogged=true] replace #minecraft:candles[candles=4,lit=true,waterlogged=true]
